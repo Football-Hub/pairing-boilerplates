@@ -1,18 +1,16 @@
 # Pairing Exercise
 
-> We're thrilled that you're thinking of joining our Software Engineering team at MuscleFood!
-
 ## Software Engineers &amp; Testers
 
 We’d like to test your mettle by asking you to complete a **technical exercise**. You should aim to spend around **55 minutes** on this technical test.
 
-You will be pairing with a member of the MuscleFood team. Ask them any questions you need to be able to deliver the solution. **You will not be marked down for asking questions!**
+You will be pairing with a member of the APL team. Ask them any questions you need to be able to deliver the solution. **You will not be marked down for asking questions!**
 
 ### Brief
 
 In this exercise, you will be working on an implementation of a URL shortening service. You can use **any language** or **any framework** or **any tools** of your choice.
 
-You’re going to deliver a URL shortening service where you enter a URL and it returns a shortened URL. For example: [https://www.musclefood.com/build-your-own-box-50](https://www.musclefood.com/build-your-own-box-50) might get shortened to [https://mus.cle/aX9824Gz](https://mus.cle/aX9824Gz).
+You’re going to deliver a URL shortening service where you enter a URL and it returns a shortened URL. For example: [https://allaccess.keepup.com.au/detail/videos/all-access/video/6316092658112/a-leagues-all-access-%7C-episode-07:-be-strong-girl](https://allaccess.keepup.com.au/detail/videos/all-access/video/6316092658112/a-leagues-all-access-%7C-episode-07:-be-strong-girl ) might get shortened to [https://keep.up/ff342z9](https://keep.up/ff342z9).
 
 There are no restrictions on how the encode or decode algorithms should work. We just need to ensure that a URL can be encoded to a short URL and the short URL can be decoded to the original URL.
 
@@ -24,7 +22,7 @@ The features, below, were written by a Product Owner. As a member of a software 
 
 ### Note for Software Engineers
 
-MuscleFood teams practise test-first. We are aware that some candidates don’t practise this in their current roles. You therefore do not need to write your solution test-first, but you should write tests for your solution to be confident that it works.
+APL teams practise test-first. We are aware that some candidates don’t practise this in their current roles. You therefore do not need to write your solution test-first, but you should write tests for your solution to be confident that it works.
   
 ## Features
 
